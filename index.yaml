@@ -3,11 +3,20 @@ entries:
   iceberg-rest-catalog:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2023-06-02T01:21:55.909250169Z"
+    created: "2023-06-02T01:22:35.921718473Z"
     description: Iceberg REST Catalog Server
-    digest: 362aaacab860551126a84d8c9891a973b5a83d54d53c84c96750d39a2168e3f2
+    digest: 96a7288258533e0c7db04b1dff481759eedb4fb8c82df1181aea858091cd2204
     name: iceberg-rest-catalog
     urls:
     - iceberg-rest-catalog-v1.1.0.tgz
     version: v1.1.0
-generated: "2023-06-02T01:21:55.908666048Z"
+  - apiVersion: v2
+    appVersion: v1.0.0
+    created: "2023-06-02T01:22:35.921343666Z"
+    description: Iceberg REST Catalog Server
+    digest: 4f1ff626f3c5979aeccb4546e665fddca7f9d9aac60c61f6ff5ae4c3e965a293
+    name: iceberg-rest-catalog
+    urls:
+    - iceberg-rest-catalog-v1.0.0.tgz
+    version: v1.0.0
+generated: "2023-06-02T01:22:35.920853392Z"
